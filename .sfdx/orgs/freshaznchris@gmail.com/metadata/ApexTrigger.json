@@ -1,0 +1,16 @@
+{
+  "status": 0,
+  "result": {
+    "createdById": "0053h0000030cplAAA",
+    "createdByName": "Christopher Chang",
+    "createdDate": "2021-11-09T22:47:44.000Z",
+    "fileName": "triggers/UserTrigger.trigger",
+    "fullName": "UserTrigger",
+    "id": "01q3h000000ETdmAAG",
+    "lastModifiedById": "0053h0000030cplAAA",
+    "lastModifiedByName": "Christopher Chang",
+    "lastModifiedDate": "2021-11-09T23:14:56.000Z",
+    "manageableState": "unmanaged",
+    "type": "ApexTrigger"
+  }
+}
